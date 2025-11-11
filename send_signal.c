@@ -2,7 +2,7 @@
  * File: send_signal.c
  * Modified by: James Zbyszinski
  * 
- * Brief summary of program:
+ * Brief summary of program: Sends a signal of a random value using SIGUSR
  */
 
 #include <stdio.h>

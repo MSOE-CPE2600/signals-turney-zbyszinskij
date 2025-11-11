@@ -2,7 +2,8 @@
  * File: recv_signal.c
  * Modified by: James Zbyszinski
  * 
- * Brief summary of program:
+ * Brief summary of program: Waits until a signal is recieves a signal and outputs the value of the
+ *                           signal recieved
  */
 
 #include <stdio.h>

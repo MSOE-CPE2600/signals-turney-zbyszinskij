@@ -2,7 +2,7 @@
  * File: signal_sigaction.c
  * Modified by: James Zbyszinski
  * 
- * Brief summary of program:
+ * Brief summary of program: Basic signal handler using sigaction
  */
 
 
